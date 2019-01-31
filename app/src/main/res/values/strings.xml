@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Mountins</string>
+    <string name="button_title_1">Random Mountain</string>
 </resources>
